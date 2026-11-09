@@ -43,7 +43,9 @@ O projeto envolve o desenvolvimento de um sistema com autenticação, gerenciame
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" title="GitHub" alt="GitHub" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40" />
 </p>
 
 ## 📂 Projetos em destaque
@@ -88,7 +90,6 @@ O projeto envolve o desenvolvimento de um sistema com autenticação, gerenciame
 ## 🔗 Onde me encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-253747?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiagodk)
-[![Cronos](https://img.shields.io/badge/Jogue_Cronos-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joguecronos.com.br/)
 
 ---
 
