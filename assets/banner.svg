@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="250" viewBox="0 0 1120 250" role="img" aria-labelledby="title description">
+  <title id="title">Tiago</title>
+  <desc id="description">Desenvolvimento Web | Jogos | Educação</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081522"/>
+      <stop offset="0.5" stop-color="#0b2034"/>
+      <stop offset="1" stop-color="#0a1728"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d85b3" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#1d85b3" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="light" cx="50%" cy="52%" r="60%">
+      <stop offset="0" stop-color="#0e4969" stop-opacity=".38"/>
+      <stop offset="1" stop-color="#0e4969" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="1118" height="248" rx="22" fill="url(#background)" stroke="#224159" stroke-width="2"/>
+  <rect x="2" y="2" width="1116" height="246" rx="20" fill="url(#light)"/>
+  <!-- Sutil ícone de código -->
+  <g fill="none" stroke="#38bdf8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity=".9" transform="translate(115 85)">
+    <path d="M38 0 5 28l33 28"/>
+    <path d="m94 0 33 28-33 28"/>
+    <path d="m78 -8-32 72"/>
+  </g>
+  <!-- Sutil ícone de controle -->
+  <g fill="none" stroke="#38bdf8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".9" transform="translate(898 91)">
+    <path d="M32 4h72c17 0 28 10 34 30l12 38c5 17-8 27-23 20l-24-19H33L9 92C-6 99-19 89-14 72L-2 34C4 14 15 4 32 4Z"/>
+    <path d="M35 28v27m-14-13h28"/>
+    <circle cx="100" cy="32" r="4" fill="#38bdf8" stroke="none"/>
+    <circle cx="118" cy="48" r="4" fill="#38bdf8" stroke="none"/>
+  </g>
+  <text x="560" y="116" text-anchor="middle" fill="#f4fbff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="78" letter-spacing="1">Tiago</text>
+  <text x="560" y="159" text-anchor="middle" fill="#bdd5e8" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400">Desenvolvimento Web | Jogos | Educação</text>
+  <path d="M60 222 H1060" stroke="url(#accent)" stroke-width="2" fill="none"/>
+</svg>
